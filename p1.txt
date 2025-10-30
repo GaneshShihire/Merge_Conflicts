@@ -1,2 +1,7 @@
 This is the simple text file for merge conflicts
-on branch master
+<<<<<<< HEAD
+
+=======
+
+modified on main
+>>>>>>> main
